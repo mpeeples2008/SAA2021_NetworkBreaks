@@ -81,5 +81,6 @@ plot(dd)
 
 div.dd <- divchain(dd)
 
+## Plot map with partition boundaries
 plot(coord1, pch=16, col=res[,m])
 plot(div.dd, add=T, col='orange', lw=2)
