@@ -37,6 +37,8 @@ The code provided conducts the following steps in order:
 
 9) Plot the results of the above on a map with sites colored by partition membership and Voronoi polygon boundaries between partitions shown.
 
+Note that this code will likely take several minutes to run depending on the processing power available.
+
 ## Continuing Work
 
 This project is a work in progress and I will continue to update this code and these analyses and will point to any new products generated based on this analysis within this GitHub page. If you have any questions or want to discuss/collaborate on this research email me at Matthew.Peeples@asu.edu.
